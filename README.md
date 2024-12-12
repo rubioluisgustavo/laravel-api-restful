@@ -6,3 +6,4 @@
 * created the new project
 * connected with database
 * created new table Flight
+* simple api restful model
