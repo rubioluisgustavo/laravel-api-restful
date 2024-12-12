@@ -2,4 +2,7 @@
 
 
 # example-app continuous learning of laravel (i can do it)
-laravel example app
+## what did i do (the road so far)
+* created the new project
+* connected with database
+* created new table Flight
