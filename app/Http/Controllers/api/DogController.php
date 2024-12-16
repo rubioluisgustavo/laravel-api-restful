@@ -20,16 +20,18 @@ class DogController extends Controller
 
     public function show(string $id)
     {
-        //
+        return Dog::findOrFail($id);
     }
 
     public function update(Request $request, string $id)
     {
-        //
+        $dog = Dog::findOrFail($id);
+        $dog->update($request->all());
     }
 
     public function destroy(string $id)
     {
-        //
+        $dog = Dog::findOrFail($id);
+        $dog->delete();
     }
 }
