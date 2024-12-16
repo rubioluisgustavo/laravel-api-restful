@@ -6,3 +6,4 @@
 * connected with database
 * created new table Flight
 * simple api restful with CRUD
+* delete, update, read and create
