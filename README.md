@@ -11,7 +11,7 @@
 ## features
 
 * http://127.0.0.1:8000/api/dogs/ -> list all dogs
-* http://127.0.0.1:8000/api/dogs?raca=Shih tzu&nome=Catharina -> create dog
+* http://127.0.0.1:8000/api/dogs?raca=Shihtzu&nome=Catharina -> create dog
 * http://127.0.0.1:8000/api/dogs/2 -> get a dog by id
 * http://127.0.0.1:8000/api/dogs/1?raca=VIRA LATA&nome=LILICÃO -> update a dog
 * http://127.0.0.1:8000/api/dogs/2 -> delete a dog
