@@ -15,3 +15,9 @@
 * http://127.0.0.1:8000/api/dogs/2 -> get a dog by id
 * http://127.0.0.1:8000/api/dogs/1?raca=VIRA LATA&nome=LILICÃO -> update a dog
 * http://127.0.0.1:8000/api/dogs/2 -> delete a dog
+
+* http://127.0.0.1:8000/api/cars/ -> list all cars
+* http://127.0.0.1:8000/api/cars?modelo=uno&marca=fiat&placa=123abc -> create a car
+* http://127.0.0.1:8000/api/cars/2 -> get a car by id
+* http://127.0.0.1:8000/api/cars/1?modelo=palio&marca=fiat&placa=123abcd -> update a car
+* http://127.0.0.1:8000/api/cars/2 -> delete a car
